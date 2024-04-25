@@ -9,13 +9,13 @@
 
 ## For PR Reviewer
 ### Basic Checks
--[ ] Is documentation sufficient, and does it accurately describe the implemented functionality?
--[ ] Are the affected services updated?
--[ ] Does the code contain any secrets or passwords.
--[ ] Does the code adhere to our standards and styling.
+- [ ] Is documentation sufficient, and does it accurately describe the implemented functionality?
+- [ ] Are the affected services updated?
+- [ ] Does the code contain any secrets or passwords.
+- [ ] Does the code adhere to our standards and styling.
 
 ### For code linked to UI user flow
--[ ] Has the functionality been tested as an "end user".
+- [ ] Has the functionality been tested as an "end user".
 
 ### Optional 
--[ ] Does the code perform well (e.g. no useless Awaits).
+- [ ] Does the code perform well (e.g. no useless Awaits).
